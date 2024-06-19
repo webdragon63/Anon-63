@@ -11,7 +11,7 @@ clear
 clear
 figlet -s -c ANON-63 | lolcat
 cat << EOF
-                               Version : 1.0 
+                                 Version : 1.0 
                         Created By : INDIAN-CYBER-ARMY 
                   YouTube : www.youtube.com/@indiancyberarmy5
 
