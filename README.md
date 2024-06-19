@@ -31,3 +31,5 @@ git clone https://github.com/webdragon63/Anon-63.git
 cd Anon-63
 bash Anon-63.sh
 ```
+# ABOUT
+This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your IP address and MAC address temporarily for providing you a better annonymity.
