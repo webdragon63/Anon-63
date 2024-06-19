@@ -1,3 +1,24 @@
+
+# INSTALLATION && USAGE
+Run as root
+```shell
+git clone https://github.com/webdragon63/Anon-63.git
+cd Anon-63
+bash Anon-63.sh
+```
+
+# ABOUT
+This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your IP address and MAC address temporarily for providing you a better anonymity.
+
+
+# INSTALLATION && USAGE
+Run as root
+```shell
+git clone https://github.com/webdragon63/Anon-63.git
+cd Anon-63
+bash Anon-63.sh
+```
+
 # NETWORK INTERFACE
 Type `ifconfig` on terminal to see your network interface like below.
 
@@ -23,13 +44,3 @@ Type `ifconfig` on terminal to see your network interface like below.
          TX packets 573876  bytes 203657779 (194.2 MiB)
          TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
-
-# INSTALLATION && USAGE
-Run as root
-```shell
-git clone https://github.com/webdragon63/Anon-63.git
-cd Anon-63
-bash Anon-63.sh
-```
-# ABOUT
-This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your IP address and MAC address temporarily for providing you a better anonymity.
