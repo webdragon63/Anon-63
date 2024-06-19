@@ -1,5 +1,11 @@
+# INSTALLATION
+run as root
+`git clone https://github.com/webdragon63/Anon-63.git`
+`cd Anon-63`
+`bash Anon-63.sh`
+
 # USAGE
-type `ifconfig` on terminal to see your network interface like below.
+Type `ifconfig` on terminal to see your network interface like below.
 
 ```┌─[root@parrot]─[/home/indiancyberarmy/Desktop]
  └──╼ #ifconfig
