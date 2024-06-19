@@ -1,7 +1,7 @@
 # USAGE
 type `ifconfig` on terminal to see your network interface like below.
 
-`┌─[root@parrot]─[/home/indiancyberarmy/Desktop]
+``┌─[root@parrot]─[/home/indiancyberarmy/Desktop]
  └──╼ #ifconfig
  lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
          inet 127.0.0.1  netmask 255.0.0.0
