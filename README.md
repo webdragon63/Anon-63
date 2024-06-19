@@ -9,8 +9,9 @@ bash Anon-63.sh
 # USAGE
 Type `ifconfig` on terminal to see your network interface like below.
 
-```┌─[root@parrot]─[/home/indiancyberarmy/Desktop]
- └──╼ #ifconfig
+```shell
+┌─[root@parrot]─[/home/indiancyberarmy/Desktop]
+└──╼ #ifconfig
  lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
          inet 127.0.0.1  netmask 255.0.0.0
          inet6 ::1  prefixlen 128  scopeid 0x10<host>
@@ -28,4 +29,5 @@ Type `ifconfig` on terminal to see your network interface like below.
          RX packets 1054961  bytes 1278173880 (1.1 GiB)
          RX errors 0  dropped 0  overruns 0  frame 0
          TX packets 573876  bytes 203657779 (194.2 MiB)
-         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0 
+         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+```
