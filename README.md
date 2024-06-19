@@ -20,6 +20,6 @@ type `ifconfig` on terminal to see your network interface like below.
          RX packets 1054961  bytes 1278173880 (1.1 GiB)
          RX errors 0  dropped 0  overruns 0  frame 0
          TX packets 573876  bytes 203657779 (194.2 MiB)
-         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0 `
+         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0 ``
 
 After it run the script named your network interface.
