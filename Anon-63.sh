@@ -10,6 +10,12 @@ clear
 
 clear
 figlet -s -c ANON-63 | lolcat
+cat << EOF
+                               Version : 1.0 
+                        Created By : INDIAN-CYBER-ARMY 
+                  YouTube : www.youtube.com/@indiancyberarmy5
+
+EOF
 echo -----------------GIVE YOUR NETWORK INTERFACE IN THE GIVEN SPACE-----------------| lolcat
 sleep 1
 read -p "SET YOUR NETWORK INTERFACE i.e (wlp1s0, wlan0, eth0)-->" NET
@@ -19,6 +25,12 @@ clear
 ifconfig $NET up
 clear
 figlet -s -c ANON-63 | lolcat
+cat << EOF
+                               Version : 1.0 
+                        Created By : INDIAN-CYBER-ARMY 
+                  YouTube : www.youtube.com/@indiancyberarmy5
+
+EOF
 echo ------------------------SET YOUR IP IN THE GIVEN SPACE--------------------------| lolcat
 sleep 1
 read -p "SET YOUR IP-->" IP
