@@ -5,7 +5,7 @@ for pkg in ${pkgs[@]}
 do
  sudo apt install $pkg
 done
-sleep 1
+
 clear
 
 clear
