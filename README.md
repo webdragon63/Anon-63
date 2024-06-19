@@ -1,12 +1,4 @@
-# INSTALLATION
-run as root
-```shell
-git clone https://github.com/webdragon63/Anon-63.git
-cd Anon-63
-bash Anon-63.sh
-```
-
-# USAGE
+# NETWORK INTERFACE
 Type `ifconfig` on terminal to see your network interface like below.
 
 ```shell
@@ -30,4 +22,12 @@ Type `ifconfig` on terminal to see your network interface like below.
          RX errors 0  dropped 0  overruns 0  frame 0
          TX packets 573876  bytes 203657779 (194.2 MiB)
          TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+```
+
+# INSTALLATION && USAGE
+Run as root
+```shell
+git clone https://github.com/webdragon63/Anon-63.git
+cd Anon-63
+bash Anon-63.sh
 ```
