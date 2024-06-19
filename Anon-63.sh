@@ -33,10 +33,10 @@ cat << EOF
 EOF
 echo ------------------------SET YOUR IP IN THE GIVEN SPACE--------------------------| lolcat
 sleep 1
-read -p "SET YOUR IP-->" IP
+read -p "SET YOUR IP-->"
 sleep 2
 echo ------------------------YOUR NEW IP HAS BEEN CONFIGURED-------------------------| lolcat
-ifconfig $NET $IP
+ifconfig $NET 
 echo 1 > /proc/sys/vm/drop_caches
 echo 2 > /proc/sys/vm/drop_caches
 ifconfig $NET
