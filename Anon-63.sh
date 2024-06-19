@@ -41,4 +41,4 @@ echo 1 > /proc/sys/vm/drop_caches
 echo 2 > /proc/sys/vm/drop_caches
 ifconfig $NET
 echo --------------------YOUR MAC ADDRESS AND IP HAS BEEN CHANGED--------------------| lolcat
-echo -----------------------------------HAPPY JOURNEY--------------------------------| lolcat
+echo -----------------------------------HAPPY JOURNEY--------------------------------| lolca
