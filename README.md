@@ -6,6 +6,7 @@ This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your I
 # INSTALLATION && USAGE
 Run as root
 ```shell
+apt install macchanger
 git clone https://github.com/webdragon63/Anon-63.git
 cd Anon-63
 bash Anon-63.sh
