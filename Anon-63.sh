@@ -1,8 +1,7 @@
 #!/bin/bash
 clear
 echo ---------------SET YOUR NETWORK INTERFACE IN THE GIVEN SPACE-------------------
-read -p "SET YOUR NETWORK INTERFACE-->" NET
-ifconfig $NET down
+read -p "SET YOUR NETWORK INTERFACE i.e (wlp1s0, wlan0, etho)-->" NET
 macchanger -r $NET
 clear
 ifconfig $NET up
