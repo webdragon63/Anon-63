@@ -9,8 +9,10 @@ Run as root
 apt install macchanger
 git clone https://github.com/webdragon63/Anon-63.git
 cd Anon-63
-bash Anon-63.sh
 ```
+To run this tool simply type:
+
+`bash Anon-63.sh`
 
 # NETWORK INTERFACE
 Type `ifconfig` on terminal to see your network interface like below.
