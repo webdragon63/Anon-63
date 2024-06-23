@@ -14,9 +14,9 @@ To run this tool simply type:
 
 `bash Anon-63.sh`
 
-Full tutorial video
+# Full tutorial video
 
-`https://youtu.be/U8HMcoOZVvA?si=p2HoSa5VnA7MPCPK`
+https://youtu.be/U8HMcoOZVvA?si=p2HoSa5VnA7MPCPK
 
 # NETWORK INTERFACE
 Type `ifconfig` on terminal to see your network interface like below.
