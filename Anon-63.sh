@@ -5,7 +5,7 @@ for pkg in ${pkgs[@]}
 do
  sudo apt install $pkg
 done
-sleep 1
+sleep .001
 clear
 
 clear
@@ -17,7 +17,7 @@ cat << EOF
 
 EOF
 echo -----------------GIVE YOUR NETWORK INTERFACE IN THE GIVEN SPACE-----------------| lolcat
-sleep 1
+sleep .001
 read -p "SET YOUR NETWORK INTERFACE i.e (wlp1s0, wlan0, eth0)-->" NET
 ifconfig $NET down
 macchanger -r $NET
@@ -32,13 +32,18 @@ cat << EOF
 
 EOF
 echo ------------------------SET YOUR IP IN THE GIVEN SPACE--------------------------| lolcat
-sleep 1
+sleep .001
 read -p "SET YOUR IP-->" IP
-sleep 2
+sleep 1
 echo ------------------------YOUR NEW IP HAS BEEN CONFIGURED-------------------------| lolcat
 ifconfig $NET $IP
 echo 1 > /proc/sys/vm/drop_caches
 echo 2 > /proc/sys/vm/drop_caches
 ifconfig $NET
-echo --------------------YOUR MAC ADDRESS AND IP HAS BEEN CHANGED--------------------| lolcat
-echo -----------------------------------HAPPY JOURNEY--------------------------------| lolcat
+echo Your public ipv4 address is:
+curl -s https://ipinfo.io/ip
+sleep 0
+echo 
+echo -------------------YOUR MAC ADDRESS AND IP HAS BEEN CHANGED---------------------| lolcat
+sleep 1
+echo -----IF YOU WANT TO CHANGE YOUR PUBLIC IPv4 ADDRESS THEN USE PROXIES OR VPN-----
