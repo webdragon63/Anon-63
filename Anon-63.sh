@@ -40,10 +40,10 @@ ifconfig $NET $IP
 echo 1 > /proc/sys/vm/drop_caches
 echo 2 > /proc/sys/vm/drop_caches
 ifconfig $NET
-echo Your public ipv4 address is:
+echo Your public IPv4 address is:
 curl -s https://ipinfo.io/ip
 sleep 0
 echo 
+echo If you want to change your Public IPv4 address then use PROXIES or VPN
+echo  
 echo -------------------YOUR MAC ADDRESS AND IP HAS BEEN CHANGED---------------------| lolcat
-sleep 1
-echo -----IF YOU WANT TO CHANGE YOUR PUBLIC IPv4 ADDRESS THEN USE PROXIES OR VPN-----
