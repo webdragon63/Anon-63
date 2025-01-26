@@ -3,7 +3,7 @@
 ![53e058114780555 604178f2e2c80](https://github.com/user-attachments/assets/255d6f1e-7530-4f1b-8eca-a3c43fdc12dc)
 # ABOUT
 
-This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your IP address and MAC address temporarily.
+This tool is made by INDIAN-CYBER-ARMY. This is a simple tool that change your Local IP and MAC address temporarily.
 
 # User interface
 ![Screenshot at 2024-06-28 15-37-27](https://github.com/webdragon63/Anon-63/assets/117004849/484ad3ca-7970-494c-b975-bc1abb352938)
